@@ -21,18 +21,18 @@ button {
 }
 img{
   height:auto;
-  width: 100%;
-  position: relative;
+  width:auto;
 }
 a{
   color:white;
   text-decoration: none;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
-@media screen and (min-width: 450px) {
+ 
   img{
-    height:auto;
-    width: 100%;
-    position: relative;
+    border: 1px solid #ddd; 
+    border-radius: 4px;  
+    padding: 5px; 
+    width: 250px;
+
   }
-}
