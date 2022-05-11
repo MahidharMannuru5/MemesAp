@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MemesApp/static/css/main.93af4442.css",
-    "main.js": "/MemesApp/static/js/main.dbf8cfa7.js",
+    "main.js": "/MemesApp/static/js/main.e522861d.js",
     "static/js/787.38f7dcb5.chunk.js": "/MemesApp/static/js/787.38f7dcb5.chunk.js",
     "index.html": "/MemesApp/index.html",
     "main.93af4442.css.map": "/MemesApp/static/css/main.93af4442.css.map",
-    "main.dbf8cfa7.js.map": "/MemesApp/static/js/main.dbf8cfa7.js.map",
+    "main.e522861d.js.map": "/MemesApp/static/js/main.e522861d.js.map",
     "787.38f7dcb5.chunk.js.map": "/MemesApp/static/js/787.38f7dcb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93af4442.css",
-    "static/js/main.dbf8cfa7.js"
+    "static/js/main.e522861d.js"
   ]
 }
