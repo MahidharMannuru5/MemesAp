@@ -4,7 +4,7 @@ import {useState,useEffect} from 'react';
 export default function Fetchnew() {
     const[New,getNews]=useState([]);
     const News=()=>{
-       axios.get("https://meme-api.com/gimme/wholesomememes").then(response=>{
+       axios.get("https://meme-api.com/gimme").then(response=>{
 getNews([response.data])       })
     }
   return (
